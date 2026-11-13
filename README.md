@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:13B9FD&height=220&section=header&text=MD.%20ABDULLAH-AL-MAMUN&fontSize=40&fontAlignY=36&desc=Flutter%20Developer%20%7C%20Mobile%20Application%20Engineer%20%7C%20Cross-Platform%20%26%20Offline-First%20Systems&descFontSize=15&descAlignY=58&fontColor=ffffff" alt="Md. Abdullah-Al-Mamun Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:13B9FD&height=220&section=header&text=MD.%20ABDULLAH-AL-MAMUN&fontSize=40&fontAlignY=36&desc=Flutter%20Developer%20%7C%20Mobile%20Application%20Engineer%20%7C%20Cross-Platform%20%2B%20Offline-First%20Systems&descFontSize=15&descAlignY=58&fontColor=ffffff" alt="Md. Abdullah-Al-Mamun Banner" width="100%" />
 
   <!-- Animated Typing SVG Headline -->
   <a href="https://abdullah-al-mamun-six.vercel.app/">
