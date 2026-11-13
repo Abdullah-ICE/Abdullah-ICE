@@ -238,32 +238,24 @@ I specialize in engineering **cross-platform applications (Android, iOS, Windows
 
 ### 💼 Professional Experience
 
-```markdown
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ iDeatedLab • Bogura, Bangladesh                                             │
-│ Junior Mobile Application Developer                           Sep 2025 – Now │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ • Architect and maintain production Flutter mobile (Android/iOS) apps with  │
-│   modular Clean Architecture and reusable enterprise component design.       │
-│ • Implement compile-safe state flows with Riverpod and GetX, connecting     │
-│   REST APIs, JWT token lifecycles, and resilient network exception handling. │
-│ • Integrate Firebase backend ecosystems (Firestore, Auth, FCM, FIAM) and    │
-│   offline persistence engines using SQLite.                                  │
-│ • Profile frame drops, memory allocations, and widget re-render overhead    │
-│   using Flutter DevTools to ensure steady 60fps performance budgets.        │
-└─────────────────────────────────────────────────────────────────────────────┘
+#### 📱 **Junior Mobile Application Developer** — [iDeatedLab](https://ideatedlab.com)
+> **Bogura, Bangladesh** • *Sep 2025 – Present*  
+> *Core Focus: Production Flutter Engineering • Clean Architecture • Riverpod & GetX • Local Persistence*
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ Atmotech IT & Software Firm • Bogura, Bangladesh                            │
-│ Mobile Application Development Intern                     Jan 2026 – Jul 2026│
-├─────────────────────────────────────────────────────────────────────────────┤
-│ • Developed responsive cross-platform interfaces adhering to Material 3     │
-│   design principles and reactive state paradigms.                           │
-│ • Integrated REST endpoints and Firebase real-time sync systems.             │
-│ • Pair-programmed with senior engineering staff on code refactoring, bug    │
-│   resolution, and automated build pipelines.                                │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+- 🏗️ **Production Mobile Systems:** Architect and maintain scalable Flutter mobile applications for **Android & iOS**, utilizing modular Clean Architecture and reusable enterprise component patterns.
+- ⚡ **Reactive State Management:** Implement compile-safe state flows with **Riverpod** and **GetX**, seamlessly connecting REST APIs, JWT authentication lifecycles, and resilient network exception handling.
+- ☁️ **Cloud & Persistence Layer:** Integrate Firebase ecosystems (Cloud Firestore, Auth, FCM push notifications, FIAM) and offline-resilient local persistence using **SQLite**.
+- 🚀 **Performance Profiling:** Diagnose widget rebuild costs, memory allocations, and rendering performance with **Flutter DevTools** to maintain a consistent 60fps user experience.
+
+<br/>
+
+#### 💻 **Mobile Application Development Intern** — Atmotech IT & Software Firm
+> **Bogura, Bangladesh** • *Jan 2026 – Jul 2026*  
+> *Core Focus: Cross-Platform UI Engineering • REST APIs • Firebase Real-Time Synchronization*
+
+- 🎨 **Responsive UI/UX Development:** Designed and built performant, responsive cross-platform interfaces using Flutter adhering to Material 3 design systems.
+- 🔄 **API & Cloud Sync:** Connected RESTful backend endpoints with Firebase services, ensuring real-time bidirectional data synchronization and reliable auth flows.
+- 👥 **Collaborative Delivery:** Partnered with senior engineers on code refactoring, performance optimization, and rapid client deliverables.
 
 ---
 
