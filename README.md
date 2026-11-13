@@ -46,7 +46,7 @@
 | Project | Platform | Architecture & Impact | Links |
 | :--- | :---: | :--- | :---: |
 | 🚚 **Pashey Achi Ecosystem** | `Mobile` | 3-tier hyperlocal logistics (Customer, Rider, Admin). Atomic order claiming via Firestore transactions (`runTransaction`) & offline SQLite caching. | [Customer App](https://play.google.com/store/apps/details?id=com.abmamun.pashey_achi) • [Rider App](https://play.google.com/store/apps/details?id=com.abmamun.pashey_achi_rider) |
-| 🍽️ **Restomgr POS** | `Desktop` | Enterprise offline restaurant POS suite. Local 9-entity sync engine using `sqflite_common_ffi` with memory fallback & dual thermal receipt printing. | [Architecture](https://abdullah-al-mamun-six.vercel.app/) |
+| 🍽️ **Restomgr POS Ecosystem** | `4-App Suite` | Integrated 4-app ecosystem (1 Manager Desktop POS, 1 QR Customer Web App, 2 Mobile Apps for Waiter & Customer). Offline 9-entity sync via `sqflite_common_ffi` & dual thermal printing. | [Architecture](https://abdullah-al-mamun-six.vercel.app/) |
 | 🩸 **Blood Bondhu** | `Mobile` | Emergency blood donor discovery with 90-day medical eligibility algorithms, FCM push notifications, and phone number token masking. | [Play Store](https://play.google.com/store/apps/details?id=com.abmamun.bloodbondhu) |
 | 🧘 **DeskFit** | `Mobile` | Posture & habit tracker with isolate-based background engine, native Android exact alarms, tactile haptic timer, and SQLite history. | [Play Store](https://play.google.com/store/apps/details?id=com.ideatedlab.deskfit) |
 | 🧠 **Unload: Brain Dump** | `Mobile` | CBT mental wellness journaling platform with Riverpod, multi-track ambient audio, and bilingual localization (EN/BN). | [Play Store](https://play.google.com/store/apps/details?id=com.ideatedlab.unload) |
